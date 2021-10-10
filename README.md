@@ -16,4 +16,4 @@ No your bot token won't be compromised bcz you will be storing it in the client 
 Credits to **[Recon](https://www.youtube.com/c/reconlxx)** For designing the command handler.. I've just gone ahead and done some changes which might help you :)
 
 
-Thanks for choosing djs_Command-Handler_V13 :)
+For anything else.. visit my [Website](https://ventispurr.cool/links) for links to all the ways you could contact me! also be sure to star the repo ;D
