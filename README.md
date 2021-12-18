@@ -17,4 +17,4 @@ Credits to **[Recon](https://www.youtube.com/c/reconlxx)** For designing the com
 
 
 # For anything else..
-You visit my [Website](https://ventispurr.cool/links) for links to all the ways you could contact me! also be sure to star the repo ;D
+You visit my [Website](https://its.ventispurr.xyz/web) for links to all the ways you could contact me! also be sure to star the repo ;D
